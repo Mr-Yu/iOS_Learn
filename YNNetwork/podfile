@@ -1,0 +1,6 @@
+target:YNNetwork do
+platform:ios,'7.0'
+pod 'Toast'
+pod 'MBProgressHUD'
+pod 'AFNetworking','~>3.1.0'
+end
